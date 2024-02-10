@@ -1,404 +1,404 @@
 {
-    "ABOUT": {
-        "message": "Circa"
-    },
-    "ACTIVE": {
-        "message": "attivo"
-    },
-    "AGE": {
-        "message": "Età"
-    },
-    "APP_DESCRIPTION": {
-        "message": "Estensione Auto Swiper per scorrere i profili di Tinder, Bumble, Lovoo, PoF e OkCupid."
-    },
-    "APP_NAME": {
-        "message": "Auto Swiper"
-    },
-    "BACK": {
-        "message": "indietro"
-    },
-    "BANNED_WORDS": {
-        "message": "Parole chiave vietate"
-    },
-    "BANNED_WORDS_TOOLTIP": {
-        "message": "I profili contenenti una qualsiasi di queste parole chiave verranno automaticamente saltati. Utilizzate questo elenco per evitare i profili con termini specifici che non vi interessano."
-    },
-    "BILLING_DASHBOARD": {
-        "message": "Cruscotto di fatturazione"
-    },
-    "BREAK_DURATION": {
-        "message": "Durata dell'interruzione in minuti."
-    },
-    "BROWSER_NOTIFICATION": {
-        "message": "Notifiche del browser"
-    },
-    "BROWSER_NOTIFICATION_DON_TEXT": {
-        "message": "Risultati della sessione di swiping:"
-    },
-    "BROWSER_NOT_SUPPORTED": {
-        "message": "Il browser attualmente in uso non è supportato."
-    },
-    "CITY": {
-        "message": "Città"
-    },
-    "CLOUD_SYNC": {
-        "message": "Salvataggio/Caricamento in cloud"
-    },
-    "DARK": {
-        "message": "Scuro"
-    },
-    "DEBUGGING_INFORMATION": {
-        "message": "Output di debug"
-    },
-    "DELAY_AFTER_PAGE_RELOAD": {
-        "message": "Ritardo dopo il ricaricamento della pagina in minuti"
-    },
-    "DISTANCE": {
-        "message": "Distanza"
-    },
-    "DOWNLOAD_LOG_CSV": {
-        "message": "Scarica il registro (CSV)"
-    },
-    "DOWNLOAD_LOG_JSON": {
-        "message": "Scarica il registro (JSON)"
-    },
-    "ENABLE_DELAY_AFTER_PAGE_RELOAD": {
-        "message": "Abilita il ritardo dopo il ricaricamento della pagina"
-    },
-    "ENABLE_MAX_DISTANCE": {
-        "message": "Abilitazione Distanza massima Distanza"
-    },
-    "ENABLE_MAX_SWIPES": {
-        "message": "Abilita le strisciate massime"
-    },
-    "ENABLE_MIN_MAX_AGE": {
-        "message": "Abilitazione della fascia d'età"
-    },
-    "ENABLE_MIN_MAX_HEIGHT": {
-        "message": "Abilitazione dell'intervallo di altezza"
-    },
-    "ENABLE_MIN_PICTURES": {
-        "message": "Abilitare le immagini min. Immagini"
-    },
-    "ENABLE_RANDOM_USAGE_SIMULATION": {
-        "message": "Abilita la simulazione di utilizzo casuale"
-    },
-    "ENABLE_RELOAD_PAGE_BETWEEN_SWIPES": {
-        "message": "Abilita il ricaricamento automatico della pagina tra uno swipe e l'altro"
-    },
-    "ENABLE_SWIPE_BREAK": {
-        "message": "Abilita l'interruzione automatica tra le strisciate"
-    },
-    "ERROR": {
-        "message": "ERRORE"
-    },
-    "ERROR_LOGIN_REQUEST": {
-        "message": "Accesso non riuscito. Verificare la connessione a Internet e assicurarsi che l'e-mail e la password siano corrette."
-    },
-    "ERROR_MAX_SWIPES": {
-        "message": "Avete raggiunto il vostro limite giornaliero di strisciate"
-    },
-    "ERROR_NOT_SUPPORTED_SITE": {
-        "message": "Sei su un sito non supportato!"
-    },
-    "ERROR_OPTIONS_SYNC_LOAD": {
-        "message": "Si è verificato un errore durante il caricamento delle opzioni dal server. Si prega di riprovare l'operazione in un secondo momento."
-    },
-    "ERROR_OPTIONS_SYNC_SAVE": {
-        "message": "Si è verificato un errore durante il salvataggio delle opzioni sul server. Si prega di riprovare l'operazione in un secondo momento."
-    },
-    "ERROR_PLEAS_RELOAD_PAGE": {
-        "message": "Aprire o aggiornare il sito di incontri in cui si desidera effettuare lo swiping."
-    },
-    "ERROR_SWIPING_NOT_WORKING": {
-        "message": "La funzione di scorrimento non funziona correttamente. Si prega di riprovare. Se il problema persiste, contattate lo sviluppatore all'indirizzo surtic86@gmail.com."
-    },
-    "EXPORT": {
-        "message": "Esportazione"
-    },
-    "EXTENDED_DISTANCE": {
-        "message": "Distanza estesa"
-    },
-    "FAQ": {
-        "message": "FAQ"
-    },
-    "HEIGHT": {
-        "message": "Altezza"
-    },
-    "IGNORE_DISTANCE": {
-        "message": "ignorare la distanza"
-    },
-    "IMPORT": {
-        "message": "Importazione"
-    },
-    "IMPORT_FINISHED": {
-        "message": "Importazione terminata"
-    },
-    "LAST_LEFT_SWIPE": {
-        "message": "Ultimo passaggio a sinistra"
-    },
-    "LEFT": {
-        "message": "A sinistra"
-    },
-    "LEFT_SWIPES_PERCENTAGE": {
-        "message": "Percentuale di scorrimento a sinistra"
-    },
-    "LIGHT": {
-        "message": "Chiaro"
-    },
-    "LOAD": {
-        "message": "Carico"
-    },
-    "LOCATION": {
-        "message": "Posizione"
-    },
-    "LOGIN": {
-        "message": "Accesso"
-    },
-    "LOGOUT": {
-        "message": "Disconnessione"
-    },
-    "MATCHES": {
-        "message": "Abbinamenti"
-    },
-    "MAX_DISTANCE": {
-        "message": "Max. Distanza"
-    },
-    "MAX_SWIPES": {
-        "message": "Max Swipes"
-    },
-    "MIN_MAX_AGE": {
-        "message": "Fascia d'età"
-    },
-    "MIN_MAX_HEIGHT": {
-        "message": "Gamma di altezza"
-    },
-    "MIN_MAX_SWIPE_TIME": {
-        "message": "Tempo tra le strisciate in secondi."
-    },
-    "MIN_PICTURES": {
-        "message": "Min. Immagini"
-    },
-    "MONTH": {
-        "message": "Mese"
-    },
-    "NAME": {
-        "message": "Nome"
-    },
-    "NO": {
-        "message": "No"
-    },
-    "NOT_ACTIVE": {
-        "message": "non attivo"
-    },
-    "NO_EMPTY_DESCRIPTION": {
-        "message": "nessuna Descrizione vuota"
-    },
-    "ONLY_RECENTLY_ACTIVE": {
-        "message": "attivo solo di recente"
-    },
-    "ONLY_VERIFYED_PROFILES": {
-        "message": "solo profili verificati"
-    },
-    "OPTIONS": {
-        "message": "Opzioni"
-    },
-    "OPTIONS_SUCCESSFULLY_LOADED": {
-        "message": "Le opzioni sono state caricate con successo."
-    },
-    "OPTIONS_SUCCESSFULLY_SAVED": {
-        "message": "Le opzioni sono state salvate con successo."
-    },
-    "PREFERRED_WORDS": {
-        "message": "Parole chiave istantanee"
-    },
-    "PREFERRED_WORDS_TOOLTIP": {
-        "message": "I profili che presentano queste parole chiave ricevono un like immediato. Ideale per evidenziare i profili che corrispondono ai vostri interessi o preferenze."
-    },
-    "PREMIUM": {
-        "message": "Premio"
-    },
-    "PREMIUM_CHECK_SUBSCRIPTION": {
-        "message": "Controllare l'abbonamento"
-    },
-    "PREMIUM_DISTANCE": {
-        "message": "salta Distanza vuota, Ignora distanza, Distanza estesa"
-    },
-    "PREMIUM_EMPTY_DESCRIPTION_ONLY_VERIFYED": {
-        "message": "nessuna Descrizione vuota, solo Profili verificati"
-    },
-    "PREMIUM_FREE_TRIAL": {
-        "message": "Prova gratuita"
-    },
-    "PREMIUM_LOCATION_SPOOFING": {
-        "message": "spoofing della posizione"
-    },
-    "PREMIUM_LOGIN": {
-        "message": "Accesso"
-    },
-    "PREMIUM_SUBSCRIBE": {
-        "message": "Abbonarsi"
-    },
-    "PREMIUM_SWIPE_CANCEL": {
-        "message": "Annullamento"
-    },
-    "PREMIUM_SWIPE_SPEED": {
-        "message": "cambiare la velocità di scorrimento"
-    },
-    "PREMIUM_SWIPE_STATISTICS": {
-        "message": "strisciata Statistiche"
-    },
-    "PREMIUM_UNLIMITED_BANNED_WORDS": {
-        "message": "parole vietate illimitate"
-    },
-    "PREMIUM_UNLIMITED_SWIPES": {
-        "message": "Scorrimenti illimitati"
-    },
-    "PRICING": {
-        "message": "Prezzi"
-    },
-    "RANDOM_USAGE_SIMULATION": {
-        "message": "Simulare l'uso casuale"
-    },
-    "RATE": {
-        "message": "Valuta questa estensione"
-    },
-    "RATE_INFORMATION": {
-        "message": "Se vi piace questa estensione, potreste gentilmente dedicare un momento per valutarla? Ci vorrà solo un minuto e il vostro sostegno sarà molto apprezzato. Grazie!"
-    },
-    "RATE_NOT_NOW": {
-        "message": "Chiedimi un'altra volta"
-    },
-    "RATE_NOW": {
-        "message": "Tasso"
-    },
-    "REASON": {
-        "message": "Motivo"
-    },
-    "REASON_BANNED_WORD": {
-        "message": "parola vietata"
-    },
-    "REASON_EMPTY_DESCRIPTION": {
-        "message": "no Descrizione"
-    },
-    "REASON_HEIGHT_TO_SMALL": {
-        "message": "a Piccolo"
-    },
-    "REASON_HEIGHT_TO_TALL": {
-        "message": "a Alto"
-    },
-    "REASON_ONLY_RECENTLY_ACTIVE": {
-        "message": "non attivo di recente"
-    },
-    "REASON_ONLY_VERIFYED_PROFILES": {
-        "message": "non verificato"
-    },
-    "REASON_REQUIRED_WORD": {
-        "message": "non è stata trovata alcuna parola chiave richiesta"
-    },
-    "REASON_TO_FAR_AWAY": {
-        "message": "troppo lontano"
-    },
-    "REASON_TO_LESS_PICTURES": {
-        "message": "troppo poche immagini"
-    },
-    "REASON_TO_OLD": {
-        "message": "troppo Vecchio"
-    },
-    "REASON_TO_YOUNG": {
-        "message": "troppo Giovane"
-    },
-    "REGISTER": {
-        "message": "Registro"
-    },
-    "RELOAD_PAGE_BETWEEN_SWIPES": {
-        "message": "Ricaricamento automatico della pagina tra uno swipe e l'altro"
-    },
-    "REQUIRED": {
-        "message": "Richiesto"
-    },
-    "REQUIRED_WORDS": {
-        "message": "Parole chiave richieste"
-    },
-    "REQUIRED_WORDS_TOOLTIP": {
-        "message": "Queste parole chiave devono essere presenti in un profilo per essere considerate per il gradimento. In questo modo si garantisce che vengano apprezzati solo i profili che soddisfano i criteri essenziali."
-    },
-    "RESET_LOG": {
-        "message": "azzeramento del registro"
-    },
-    "RESET_SETTINGS": {
-        "message": "reimpostare le impostazioni"
-    },
-    "RESET_STATS": {
-        "message": "Statistica azzerata"
-    },
-    "Right": {
-        "message": "Diritto"
-    },
-    "SAVE": {
-        "message": "Risparmiare"
-    },
-    "SET": {
-        "message": "set"
-    },
-    "SITES": {
-        "message": "Siti"
-    },
-    "SKIP_EMPTY_DISTANCE": {
-        "message": "ignorare la distanza sconosciuta"
-    },
-    "STATS": {
-        "message": "Statistiche"
-    },
-    "STOP": {
-        "message": "Stop"
-    },
-    "SUBSCRIPTION": {
-        "message": "Abbonamento"
-    },
-    "SUBSCRIPTION_CANCELED": {
-        "message": "Abbonamento annullato"
-    },
-    "SUBSCRIPTION_PLAN": {
-        "message": "Piano di abbonamento"
-    },
-    "SUBSCRIPTION_RENEWDATE": {
-        "message": "Data di rinnovo dell'abbonamento"
-    },
-    "SUBSCRIPTION_STATUS": {
-        "message": "Stato dell'abbonamento"
-    },
-    "SUPPORTED_BROWSERS": {
-        "message": "Browser supportati"
-    },
-    "SWIPE": {
-        "message": "Inizio"
-    },
-    "SWIPES": {
-        "message": "Strisciate"
-    },
-    "SWIPE_BREAK": {
-        "message": "Interruzione automatica tra le strisciate"
-    },
-    "THEME": {
-        "message": "Tema"
-    },
-    "TOAST_VERSION_UPDATE": {
-        "message": "Auto-Swiper ha ricevuto un aggiornamento. Aggiornare tutti i siti di incontri attivi per implementare le nuove modifiche e consultare il changelog per ulteriori dettagli."
-    },
-    "TOTAL": {
-        "message": "Totale"
-    },
-    "UNSET": {
-        "message": "non impostato"
-    },
-    "WITH_RELOAD_PAGE_BETWEEN_SWIPES": {
-        "message": "con Ricaricamento automatico della pagina"
-    },
-    "YEARS": {
-        "message": "Anni"
-    },
-    "YES": {
-        "message": "Sì"
-    }
+  "ABOUT": {
+    "message": "Circa"
+  },
+  "ACTIVE": {
+    "message": "attivo"
+  },
+  "AGE": {
+    "message": "Età"
+  },
+  "APP_DESCRIPTION": {
+    "message": "Estensione Auto Swiper per scorrere i profili di Tinder, Bumble, Lovoo, PoF e OkCupid."
+  },
+  "APP_NAME": {
+    "message": "Auto Swiper"
+  },
+  "BACK": {
+    "message": "indietro"
+  },
+  "BANNED_WORDS": {
+    "message": "Parole chiave vietate"
+  },
+  "BANNED_WORDS_TOOLTIP": {
+    "message": "I profili contenenti una qualsiasi di queste parole chiave verranno automaticamente saltati. Utilizzate questo elenco per evitare i profili con termini specifici che non vi interessano."
+  },
+  "BILLING_DASHBOARD": {
+    "message": "Cruscotto di fatturazione"
+  },
+  "BREAK_DURATION": {
+    "message": "Durata dell'interruzione in minuti."
+  },
+  "BROWSER_NOTIFICATION": {
+    "message": "Notifiche del browser"
+  },
+  "BROWSER_NOTIFICATION_DON_TEXT": {
+    "message": "Risultati della sessione di swiping:"
+  },
+  "BROWSER_NOT_SUPPORTED": {
+    "message": "Il browser attualmente in uso non è supportato."
+  },
+  "CITY": {
+    "message": "Città"
+  },
+  "CLOUD_SYNC": {
+    "message": "Salvataggio/Caricamento in cloud"
+  },
+  "DARK": {
+    "message": "Scuro"
+  },
+  "DEBUGGING_INFORMATION": {
+    "message": "Output di debug"
+  },
+  "DELAY_AFTER_PAGE_RELOAD": {
+    "message": "Ritardo dopo il ricaricamento della pagina in minuti"
+  },
+  "DISTANCE": {
+    "message": "Distanza"
+  },
+  "DOWNLOAD_LOG_CSV": {
+    "message": "Scarica il registro (CSV)"
+  },
+  "DOWNLOAD_LOG_JSON": {
+    "message": "Scarica il registro (JSON)"
+  },
+  "ENABLE_DELAY_AFTER_PAGE_RELOAD": {
+    "message": "Abilita il ritardo dopo il ricaricamento della pagina"
+  },
+  "ENABLE_MAX_DISTANCE": {
+    "message": "Abilitazione Distanza massima Distanza"
+  },
+  "ENABLE_MAX_SWIPES": {
+    "message": "Abilita le strisciate massime"
+  },
+  "ENABLE_MIN_MAX_AGE": {
+    "message": "Abilitazione della fascia d'età"
+  },
+  "ENABLE_MIN_MAX_HEIGHT": {
+    "message": "Abilitazione dell'intervallo di altezza"
+  },
+  "ENABLE_MIN_PICTURES": {
+    "message": "Abilitare le immagini min. Immagini"
+  },
+  "ENABLE_RANDOM_USAGE_SIMULATION": {
+    "message": "Abilita la simulazione di utilizzo casuale"
+  },
+  "ENABLE_RELOAD_PAGE_BETWEEN_SWIPES": {
+    "message": "Abilita il ricaricamento automatico della pagina tra uno swipe e l'altro"
+  },
+  "ENABLE_SWIPE_BREAK": {
+    "message": "Abilita l'interruzione automatica tra le strisciate"
+  },
+  "ERROR": {
+    "message": "ERRORE"
+  },
+  "ERROR_LOGIN_REQUEST": {
+    "message": "Accesso non riuscito. Verificare la connessione a Internet e assicurarsi che l'e-mail e la password siano corrette."
+  },
+  "ERROR_MAX_SWIPES": {
+    "message": "Avete raggiunto il vostro limite giornaliero di strisciate"
+  },
+  "ERROR_NOT_SUPPORTED_SITE": {
+    "message": "Sei su un sito non supportato!"
+  },
+  "ERROR_OPTIONS_SYNC_LOAD": {
+    "message": "Si è verificato un errore durante il caricamento delle opzioni dal server. Si prega di riprovare l'operazione in un secondo momento."
+  },
+  "ERROR_OPTIONS_SYNC_SAVE": {
+    "message": "Si è verificato un errore durante il salvataggio delle opzioni sul server. Si prega di riprovare l'operazione in un secondo momento."
+  },
+  "ERROR_PLEAS_RELOAD_PAGE": {
+    "message": "Aprire o aggiornare il sito di incontri in cui si desidera effettuare lo swiping."
+  },
+  "ERROR_SWIPING_NOT_WORKING": {
+    "message": "La funzione di scorrimento non funziona correttamente. Si prega di riprovare. Se il problema persiste, contattate lo sviluppatore all'indirizzo surtic86@gmail.com."
+  },
+  "EXPORT": {
+    "message": "Esportazione"
+  },
+  "EXTENDED_DISTANCE": {
+    "message": "Distanza estesa"
+  },
+  "FAQ": {
+    "message": "FAQ"
+  },
+  "HEIGHT": {
+    "message": "Altezza"
+  },
+  "IGNORE_DISTANCE": {
+    "message": "ignorare la distanza"
+  },
+  "IMPORT": {
+    "message": "Importazione"
+  },
+  "IMPORT_FINISHED": {
+    "message": "Importazione terminata"
+  },
+  "LAST_LEFT_SWIPE": {
+    "message": "Ultimo passaggio a sinistra"
+  },
+  "LEFT": {
+    "message": "A sinistra"
+  },
+  "LEFT_SWIPES_PERCENTAGE": {
+    "message": "Percentuale di scorrimento a sinistra"
+  },
+  "LIGHT": {
+    "message": "Chiaro"
+  },
+  "LOAD": {
+    "message": "Carico"
+  },
+  "LOCATION": {
+    "message": "Posizione"
+  },
+  "LOGIN": {
+    "message": "Accesso"
+  },
+  "LOGOUT": {
+    "message": "Disconnessione"
+  },
+  "MATCHES": {
+    "message": "Abbinamenti"
+  },
+  "MAX_DISTANCE": {
+    "message": "Max. Distanza"
+  },
+  "MAX_SWIPES": {
+    "message": "Max Swipes"
+  },
+  "MIN_MAX_AGE": {
+    "message": "Fascia d'età"
+  },
+  "MIN_MAX_HEIGHT": {
+    "message": "Gamma di altezza"
+  },
+  "MIN_MAX_SWIPE_TIME": {
+    "message": "Tempo tra le strisciate in secondi."
+  },
+  "MIN_PICTURES": {
+    "message": "Min. Immagini"
+  },
+  "MONTH": {
+    "message": "Mese"
+  },
+  "NAME": {
+    "message": "Nome"
+  },
+  "NO": {
+    "message": "No"
+  },
+  "NOT_ACTIVE": {
+    "message": "non attivo"
+  },
+  "NO_EMPTY_DESCRIPTION": {
+    "message": "nessuna Descrizione vuota"
+  },
+  "ONLY_RECENTLY_ACTIVE": {
+    "message": "attivo solo di recente"
+  },
+  "ONLY_VERIFYED_PROFILES": {
+    "message": "solo profili verificati"
+  },
+  "OPTIONS": {
+    "message": "Opzioni"
+  },
+  "OPTIONS_SUCCESSFULLY_LOADED": {
+    "message": "Le opzioni sono state caricate con successo."
+  },
+  "OPTIONS_SUCCESSFULLY_SAVED": {
+    "message": "Le opzioni sono state salvate con successo."
+  },
+  "PREFERRED_WORDS": {
+    "message": "Parole chiave istantanee"
+  },
+  "PREFERRED_WORDS_TOOLTIP": {
+    "message": "I profili che presentano queste parole chiave ricevono un like immediato. Ideale per evidenziare i profili che corrispondono ai vostri interessi o preferenze."
+  },
+  "PREMIUM": {
+    "message": "Premio"
+  },
+  "PREMIUM_CHECK_SUBSCRIPTION": {
+    "message": "Controllare l'abbonamento"
+  },
+  "PREMIUM_DISTANCE": {
+    "message": "salta Distanza vuota, Ignora distanza, Distanza estesa"
+  },
+  "PREMIUM_EMPTY_DESCRIPTION_ONLY_VERIFYED": {
+    "message": "nessuna Descrizione vuota, solo Profili verificati"
+  },
+  "PREMIUM_FREE_TRIAL": {
+    "message": "Prova gratuita"
+  },
+  "PREMIUM_LOCATION_SPOOFING": {
+    "message": "spoofing della posizione"
+  },
+  "PREMIUM_LOGIN": {
+    "message": "Accesso"
+  },
+  "PREMIUM_SUBSCRIBE": {
+    "message": "Abbonarsi"
+  },
+  "PREMIUM_SWIPE_CANCEL": {
+    "message": "Annullamento"
+  },
+  "PREMIUM_SWIPE_SPEED": {
+    "message": "cambiare la velocità di scorrimento"
+  },
+  "PREMIUM_SWIPE_STATISTICS": {
+    "message": "strisciata Statistiche"
+  },
+  "PREMIUM_UNLIMITED_BANNED_WORDS": {
+    "message": "parole vietate illimitate"
+  },
+  "PREMIUM_UNLIMITED_SWIPES": {
+    "message": "Scorrimenti illimitati"
+  },
+  "PRICING": {
+    "message": "Prezzi"
+  },
+  "RANDOM_USAGE_SIMULATION": {
+    "message": "Simulare l'uso casuale"
+  },
+  "RATE": {
+    "message": "Valuta questa estensione"
+  },
+  "RATE_INFORMATION": {
+    "message": "Se vi piace questa estensione, potreste gentilmente dedicare un momento per valutarla? Ci vorrà solo un minuto e il vostro sostegno sarà molto apprezzato. Grazie!"
+  },
+  "RATE_NOT_NOW": {
+    "message": "Chiedimi un'altra volta"
+  },
+  "RATE_NOW": {
+    "message": "Tasso"
+  },
+  "REASON": {
+    "message": "Motivo"
+  },
+  "REASON_BANNED_WORD": {
+    "message": "parola vietata"
+  },
+  "REASON_EMPTY_DESCRIPTION": {
+    "message": "no Descrizione"
+  },
+  "REASON_HEIGHT_TO_SMALL": {
+    "message": "a Piccolo"
+  },
+  "REASON_HEIGHT_TO_TALL": {
+    "message": "a Alto"
+  },
+  "REASON_ONLY_RECENTLY_ACTIVE": {
+    "message": "non attivo di recente"
+  },
+  "REASON_ONLY_VERIFYED_PROFILES": {
+    "message": "non verificato"
+  },
+  "REASON_REQUIRED_WORD": {
+    "message": "non è stata trovata alcuna parola chiave richiesta"
+  },
+  "REASON_TO_FAR_AWAY": {
+    "message": "troppo lontano"
+  },
+  "REASON_TO_LESS_PICTURES": {
+    "message": "troppo poche immagini"
+  },
+  "REASON_TO_OLD": {
+    "message": "troppo Vecchio"
+  },
+  "REASON_TO_YOUNG": {
+    "message": "troppo Giovane"
+  },
+  "REGISTER": {
+    "message": "Registro"
+  },
+  "RELOAD_PAGE_BETWEEN_SWIPES": {
+    "message": "Ricaricamento automatico della pagina tra uno swipe e l'altro"
+  },
+  "REQUIRED": {
+    "message": "Richiesto"
+  },
+  "REQUIRED_WORDS": {
+    "message": "Parole chiave richieste"
+  },
+  "REQUIRED_WORDS_TOOLTIP": {
+    "message": "Queste parole chiave devono essere presenti in un profilo per essere considerate per il gradimento. In questo modo si garantisce che vengano apprezzati solo i profili che soddisfano i criteri essenziali."
+  },
+  "RESET_LOG": {
+    "message": "azzeramento del registro"
+  },
+  "RESET_SETTINGS": {
+    "message": "reimpostare le impostazioni"
+  },
+  "RESET_STATS": {
+    "message": "Statistica azzerata"
+  },
+  "Right": {
+    "message": "Diritto"
+  },
+  "SAVE": {
+    "message": "Risparmiare"
+  },
+  "SET": {
+    "message": "set"
+  },
+  "SITES": {
+    "message": "Siti"
+  },
+  "SKIP_EMPTY_DISTANCE": {
+    "message": "ignorare la distanza sconosciuta"
+  },
+  "STATS": {
+    "message": "Statistiche"
+  },
+  "STOP": {
+    "message": "Stop"
+  },
+  "SUBSCRIPTION": {
+    "message": "Abbonamento"
+  },
+  "SUBSCRIPTION_CANCELED": {
+    "message": "Abbonamento annullato"
+  },
+  "SUBSCRIPTION_PLAN": {
+    "message": "Piano di abbonamento"
+  },
+  "SUBSCRIPTION_RENEWDATE": {
+    "message": "Data di rinnovo dell'abbonamento"
+  },
+  "SUBSCRIPTION_STATUS": {
+    "message": "Stato dell'abbonamento"
+  },
+  "SUPPORTED_BROWSERS": {
+    "message": "Browser supportati"
+  },
+  "SWIPE": {
+    "message": "Inizio"
+  },
+  "SWIPES": {
+    "message": "Strisciate"
+  },
+  "SWIPE_BREAK": {
+    "message": "Interruzione automatica tra le strisciate"
+  },
+  "THEME": {
+    "message": "Tema"
+  },
+  "TOAST_VERSION_UPDATE": {
+    "message": "Auto-Swiper ha ricevuto un aggiornamento. Aggiornare tutti i siti di incontri attivi per implementare le nuove modifiche e consultare il changelog per ulteriori dettagli."
+  },
+  "TOTAL": {
+    "message": "Totale"
+  },
+  "UNSET": {
+    "message": "non impostato"
+  },
+  "WITH_RELOAD_PAGE_BETWEEN_SWIPES": {
+    "message": "con Ricaricamento automatico della pagina"
+  },
+  "YEARS": {
+    "message": "Anni"
+  },
+  "YES": {
+    "message": "Sì"
+  }
 }
