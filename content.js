@@ -5288,7 +5288,7 @@ var v = (ue, V, re) => (fr(ue, typeof V != "symbol" ? V + "" : V, re), re);
         isPro: !1,
         isUltimate: !1,
         enableMaxSwipesFilter: !1,
-        maxSwipes: 100,
+        maxSwipes: 5000,
         enableLeftSwipesPercentageFilter: !1,
         leftSwipePercentage: [25, 50],
         enableAgeFilter: !1,
@@ -5778,7 +5778,7 @@ var v = (ue, V, re) => (fr(ue, typeof V != "symbol" ? V + "" : V, re), re);
           this.options.maxSwipes === this.swipeCounts.total &&
           ((this.stop = !0), (this.ignoreUnload = !0)),
         this.options.isFree === !0 &&
-          this.swipeCounts.total === 100 &&
+          this.swipeCounts.total === 5000 &&
           ((this.stop = !0), (this.ignoreUnload = !0)),
         this.options.isBasic === !0 &&
           this.swipeCounts.total === 1e3 &&

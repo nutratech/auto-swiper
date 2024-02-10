@@ -15212,7 +15212,7 @@ ${e}
           `
  padding: 8px var(--n-option-padding-left);
  font-size: var(--n-option-font-size);
- transition: 
+ transition:
  color .3s var(--n-bezier),
  border-color .3s var(--n-bezier);
  border-bottom: 1px solid var(--n-action-divider-color);
@@ -15224,7 +15224,7 @@ ${e}
           `
  padding: 8px var(--n-option-padding-left);
  font-size: var(--n-option-font-size);
- transition: 
+ transition:
  color .3s var(--n-bezier),
  border-color .3s var(--n-bezier);
  border-top: 1px solid var(--n-action-divider-color);
@@ -17162,7 +17162,7 @@ ${e}
  border-radius: var(--n-border-radius);
  color: var(--n-text-color);
  background-color: var(--n-color);
- transition: 
+ transition:
  border-color .3s var(--n-bezier),
  background-color .3s var(--n-bezier),
  color .3s var(--n-bezier),
@@ -18455,7 +18455,7 @@ ${e}
                 "placeholder",
                 `
  display: flex;
- align-items: center; 
+ align-items: center;
  `
               ),
             ]),
@@ -21820,7 +21820,7 @@ ${e}
  background-color: var(--n-color);
  color: var(--n-text-color);
  word-break: break-word;
- transition: 
+ transition:
  color .3s var(--n-bezier),
  background-color .3s var(--n-bezier),
  box-shadow .3s var(--n-bezier),
@@ -24470,7 +24470,7 @@ ${e}
  margin: auto;
  border-radius: var(--n-border-radius);
  padding: var(--n-padding);
- transition: 
+ transition:
  border-color .3s var(--n-bezier),
  background-color .3s var(--n-bezier),
  color .3s var(--n-bezier);
@@ -30216,7 +30216,7 @@ ${e}
                   "notification-main",
                   `
  margin-left: 40px;
- width: calc(100% - 40px); 
+ width: calc(100% - 40px);
  `
                 ),
               ]),
@@ -32628,7 +32628,7 @@ ${e}
             ne(
               "button",
               `
- align-items: center; 
+ align-items: center;
  top: var(--n-offset);
  left: var(--n-offset);
  height: var(--n-button-height);
@@ -33198,7 +33198,7 @@ ${e}
             M(
               "tabs-tab",
               `
- padding: var(--n-tab-padding-vertical); 
+ padding: var(--n-tab-padding-vertical);
  `
             ),
           ]
@@ -33429,7 +33429,7 @@ ${e}
               `
  height: 100%;
  width: 100%;
- overflow-y: auto; 
+ overflow-y: auto;
  scrollbar-width: none;
  `,
               [
@@ -35877,7 +35877,7 @@ ${e}
  font-size: var(--n-font-size);
  transition:
  color .3s var(--n-bezier),
- text-decoration-color .3s var(--n-bezier); 
+ text-decoration-color .3s var(--n-bezier);
  `,
                     [
                       q(
@@ -37342,7 +37342,7 @@ ${e}
                 {
                   header: B(() => [
                     Se(be(h.$i18n("APP_NAME")) + " ", 1),
-                    At("small", null, "v" + be(l.value) + " by surtic86", 1),
+                    At("small", null, "v" + be(l.value) + " by surtic86 [patched by gg]", 1),
                   ]),
                   "header-extra": B(() => [lB]),
                   default: B(() => [
@@ -41892,7 +41892,7 @@ ${e}
               return;
             }
             if (
-              (r.isFree && r.dailySwipes >= 500) ||
+              (r.isFree && r.dailySwipes >= 25000) ||
               (r.isBasic && r.dailySwipes >= 5e3)
             ) {
               n.warning(wt.i18n.getMessage("ERROR_MAX_SWIPES"));
@@ -44514,7 +44514,7 @@ License: MIT
                                     He(
                                       f,
                                       { key: 1, bordered: !1, type: "error" },
-                                      { default: B(() => [Se(" 100 ")]), _: 1 }
+                                      { default: B(() => [Se(" 5000 ")]), _: 1 }
                                     ))
                                   : N(r)
                                   ? (Ie(),
