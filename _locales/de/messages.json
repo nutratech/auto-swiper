@@ -1,0 +1,404 @@
+{
+    "ABOUT": {
+        "message": "Über"
+    },
+    "ACTIVE": {
+        "message": "aktiv"
+    },
+    "AGE": {
+        "message": "Alter"
+    },
+    "APP_DESCRIPTION": {
+        "message": "Auto Swiper Erweiterung zum Durchstreichen von Tinder, Bumble, Lovoo, PoF und OkCupid Profilen."
+    },
+    "APP_NAME": {
+        "message": "Auto Swiper"
+    },
+    "BACK": {
+        "message": "zurück"
+    },
+    "BANNED_WORDS": {
+        "message": "Verbotene Schlüsselwörter"
+    },
+    "BANNED_WORDS_TOOLTIP": {
+        "message": "Profile, die eines dieser Schlüsselwörter enthalten, werden automatisch übersprungen. Verwenden Sie diese Liste, um Profile mit bestimmten Begriffen zu vermeiden, an denen Sie nicht interessiert sind."
+    },
+    "BILLING_DASHBOARD": {
+        "message": "Dashboard für die Rechnungsstellung"
+    },
+    "BREAK_DURATION": {
+        "message": "Dauer der Pause in Minuten."
+    },
+    "BROWSER_NOTIFICATION": {
+        "message": "Browser-Benachrichtigungen"
+    },
+    "BROWSER_NOTIFICATION_DON_TEXT": {
+        "message": "Ergebnisse der Swiping Session:"
+    },
+    "BROWSER_NOT_SUPPORTED": {
+        "message": "Der Browser, den Sie gerade verwenden, wird nicht unterstützt."
+    },
+    "CITY": {
+        "message": "Stadt"
+    },
+    "CLOUD_SYNC": {
+        "message": "Cloud Speichern/Laden"
+    },
+    "DARK": {
+        "message": "Dunkelheit"
+    },
+    "DEBUGGING_INFORMATION": {
+        "message": "Debugging-Ausgabe"
+    },
+    "DELAY_AFTER_PAGE_RELOAD": {
+        "message": "Verzögerung nach dem Neuladen der Seite in Minuten"
+    },
+    "DISTANCE": {
+        "message": "Entfernung"
+    },
+    "DOWNLOAD_LOG_CSV": {
+        "message": "Protokoll herunterladen (CSV)"
+    },
+    "DOWNLOAD_LOG_JSON": {
+        "message": "Protokoll herunterladen (JSON)"
+    },
+    "ENABLE_DELAY_AFTER_PAGE_RELOAD": {
+        "message": "Verzögerung nach Neuladen der Seite einschalten"
+    },
+    "ENABLE_MAX_DISTANCE": {
+        "message": "Aktivieren Max. Abstand"
+    },
+    "ENABLE_MAX_SWIPES": {
+        "message": "Max Swipes aktivieren"
+    },
+    "ENABLE_MIN_MAX_AGE": {
+        "message": "Aktivieren Altersbereich"
+    },
+    "ENABLE_MIN_MAX_HEIGHT": {
+        "message": "Körpergrösse Bereich aktivieren"
+    },
+    "ENABLE_MIN_PICTURES": {
+        "message": "Aktivieren Sie Min. Bilder"
+    },
+    "ENABLE_RANDOM_USAGE_SIMULATION": {
+        "message": "Simulation der zufälligen Nutzung einschalten"
+    },
+    "ENABLE_RELOAD_PAGE_BETWEEN_SWIPES": {
+        "message": "Automatisches Neuladen der Seite zwischen Swipes aktivieren"
+    },
+    "ENABLE_SWIPE_BREAK": {
+        "message": "Automatische Pause zwischen Swipes aktivieren"
+    },
+    "ERROR": {
+        "message": "ERROR"
+    },
+    "ERROR_LOGIN_REQUEST": {
+        "message": "Anmeldung fehlgeschlagen. Bitte überprüfen Sie Ihre Internetverbindung und stellen Sie sicher, dass Ihre E-Mail und Ihr Passwort korrekt sind."
+    },
+    "ERROR_MAX_SWIPES": {
+        "message": "Sie haben Ihr tägliches Limit für Durchzüge erreicht"
+    },
+    "ERROR_NOT_SUPPORTED_SITE": {
+        "message": "Sie befinden sich auf einer nicht unterstützten Site!"
+    },
+    "ERROR_OPTIONS_SYNC_LOAD": {
+        "message": "Beim Laden der Optionen vom Server ist ein Fehler aufgetreten. Bitte versuchen Sie diesen Vorgang zu einem späteren Zeitpunkt erneut."
+    },
+    "ERROR_OPTIONS_SYNC_SAVE": {
+        "message": "Beim Speichern der Optionen auf dem Server ist ein Fehler aufgetreten. Bitte versuchen Sie diesen Vorgang zu einem späteren Zeitpunkt erneut."
+    },
+    "ERROR_PLEAS_RELOAD_PAGE": {
+        "message": "Bitte öffnen oder aktualisieren Sie die Dating-Website, auf der Sie swipen möchten."
+    },
+    "ERROR_SWIPING_NOT_WORKING": {
+        "message": "Die Swiping-Funktion funktioniert nicht richtig. Bitte versuchen Sie es erneut. Wenn das Problem weiterhin besteht, wenden Sie sich an den Entwickler unter surtic86@gmail.com."
+    },
+    "EXPORT": {
+        "message": "Exportieren"
+    },
+    "EXTENDED_DISTANCE": {
+        "message": "größere Entfernung"
+    },
+    "FAQ": {
+        "message": "FAQ"
+    },
+    "HEIGHT": {
+        "message": "Grösse"
+    },
+    "IGNORE_DISTANCE": {
+        "message": "Abstand ignorieren"
+    },
+    "IMPORT": {
+        "message": "Importieren"
+    },
+    "IMPORT_FINISHED": {
+        "message": "Import beendet"
+    },
+    "LAST_LEFT_SWIPE": {
+        "message": "Letzter Wisch nach links"
+    },
+    "LEFT": {
+        "message": "Links"
+    },
+    "LEFT_SWIPES_PERCENTAGE": {
+        "message": "Prozentualer Anteil der Dislikes"
+    },
+    "LIGHT": {
+        "message": "Licht"
+    },
+    "LOAD": {
+        "message": "Laden Sie"
+    },
+    "LOCATION": {
+        "message": "Standort"
+    },
+    "LOGIN": {
+        "message": "Anmeldung"
+    },
+    "LOGOUT": {
+        "message": "Abmeldung"
+    },
+    "MATCHES": {
+        "message": "Streichhölzer"
+    },
+    "MAX_DISTANCE": {
+        "message": "Max. Abstand"
+    },
+    "MAX_SWIPES": {
+        "message": "Max Swipes"
+    },
+    "MIN_MAX_AGE": {
+        "message": "Altersspanne"
+    },
+    "MIN_MAX_HEIGHT": {
+        "message": "Körpergrösse Bereich"
+    },
+    "MIN_MAX_SWIPE_TIME": {
+        "message": "Zeit zwischen den Wischvorgängen in Sek."
+    },
+    "MIN_PICTURES": {
+        "message": "Min. Bilder"
+    },
+    "MONTH": {
+        "message": "Monat"
+    },
+    "NAME": {
+        "message": "Name"
+    },
+    "NO": {
+        "message": "Nein"
+    },
+    "NOT_ACTIVE": {
+        "message": "nicht aktiv"
+    },
+    "NO_EMPTY_DESCRIPTION": {
+        "message": "keine Leere Beschreibung"
+    },
+    "ONLY_RECENTLY_ACTIVE": {
+        "message": "erst seit kurzem aktiv"
+    },
+    "ONLY_VERIFYED_PROFILES": {
+        "message": "nur verifizierte Profile"
+    },
+    "OPTIONS": {
+        "message": "Optionen"
+    },
+    "OPTIONS_SUCCESSFULLY_LOADED": {
+        "message": "Die Optionen wurden erfolgreich geladen."
+    },
+    "OPTIONS_SUCCESSFULLY_SAVED": {
+        "message": "Die Optionen wurden erfolgreich gespeichert."
+    },
+    "PREFERRED_WORDS": {
+        "message": "Sofort-Like-Schlüsselwörter"
+    },
+    "PREFERRED_WORDS_TOOLTIP": {
+        "message": "Profile mit diesen Schlüsselwörtern erhalten sofort ein Like. Ideal, um Profile hervorzuheben, die Ihren Hauptinteressen oder Vorlieben entsprechen."
+    },
+    "PREMIUM": {
+        "message": "Prämie"
+    },
+    "PREMIUM_CHECK_SUBSCRIPTION": {
+        "message": "Prüfen Sie Ihr Abonnement"
+    },
+    "PREMIUM_DISTANCE": {
+        "message": "Leeren Abstand überspringen, Abstand ignorieren, erweiterten Abstand"
+    },
+    "PREMIUM_EMPTY_DESCRIPTION_ONLY_VERIFYED": {
+        "message": "keine leere Beschreibung, nur geprüfte Profile"
+    },
+    "PREMIUM_FREE_TRIAL": {
+        "message": "kostenlose Testversion"
+    },
+    "PREMIUM_LOCATION_SPOOFING": {
+        "message": "Standort-Spoofing"
+    },
+    "PREMIUM_LOGIN": {
+        "message": "Anmeldung"
+    },
+    "PREMIUM_SUBSCRIBE": {
+        "message": "Abonnieren"
+    },
+    "PREMIUM_SWIPE_CANCEL": {
+        "message": "Abbrechen"
+    },
+    "PREMIUM_SWIPE_SPEED": {
+        "message": "Swipe-Geschwindigkeit ändern"
+    },
+    "PREMIUM_SWIPE_STATISTICS": {
+        "message": "swipe Statistik"
+    },
+    "PREMIUM_UNLIMITED_BANNED_WORDS": {
+        "message": "unlimited banned Words"
+    },
+    "PREMIUM_UNLIMITED_SWIPES": {
+        "message": "unbegrenzte Swipes"
+    },
+    "PRICING": {
+        "message": "Preisgestaltung"
+    },
+    "RANDOM_USAGE_SIMULATION": {
+        "message": "Zufällige Nutzung simulieren"
+    },
+    "RATE": {
+        "message": "Diese Erweiterung bewerten"
+    },
+    "RATE_INFORMATION": {
+        "message": "Wenn Ihnen diese Erweiterung gefällt, könnten Sie sich bitte einen Moment Zeit nehmen, um sie zu bewerten? Es dauert nur eine Minute, und Ihre Unterstützung wird sehr geschätzt. Wir danken Ihnen!"
+    },
+    "RATE_NOT_NOW": {
+        "message": "Frag mich ein anderes Mal"
+    },
+    "RATE_NOW": {
+        "message": "Bewerten Sie"
+    },
+    "REASON": {
+        "message": "Grund"
+    },
+    "REASON_BANNED_WORD": {
+        "message": "verbotenes Wort"
+    },
+    "REASON_EMPTY_DESCRIPTION": {
+        "message": "keine Beschreibung"
+    },
+    "REASON_HEIGHT_TO_SMALL": {
+        "message": "zu Klein"
+    },
+    "REASON_HEIGHT_TO_TALL": {
+        "message": "zu Groß"
+    },
+    "REASON_ONLY_RECENTLY_ACTIVE": {
+        "message": "nicht mehr aktiv"
+    },
+    "REASON_ONLY_VERIFYED_PROFILES": {
+        "message": "nicht geprüft"
+    },
+    "REASON_REQUIRED_WORD": {
+        "message": "kein erforderliches Schlüsselwort gefunden"
+    },
+    "REASON_TO_FAR_AWAY": {
+        "message": "zu weit weg"
+    },
+    "REASON_TO_LESS_PICTURES": {
+        "message": "zu wenige Bilder"
+    },
+    "REASON_TO_OLD": {
+        "message": "zu alt"
+    },
+    "REASON_TO_YOUNG": {
+        "message": "zu jung"
+    },
+    "REGISTER": {
+        "message": "Register"
+    },
+    "RELOAD_PAGE_BETWEEN_SWIPES": {
+        "message": "Automatisches Neuladen der Seite zwischen Swipes"
+    },
+    "REQUIRED": {
+        "message": "Erforderlich"
+    },
+    "REQUIRED_WORDS": {
+        "message": "Erforderliche Schlüsselwörter"
+    },
+    "REQUIRED_WORDS_TOOLTIP": {
+        "message": "Diese Schlüsselwörter müssen in einem Profil vorhanden sein, damit es für das Liken in Frage kommt. Auf diese Weise wird sichergestellt, dass nur Profile geliked werden, die Ihre wesentlichen Kriterien erfüllen."
+    },
+    "RESET_LOG": {
+        "message": "zurücksetzen Log"
+    },
+    "RESET_SETTINGS": {
+        "message": "Einstellungen zurücksetzen"
+    },
+    "RESET_STATS": {
+        "message": "Statistik zurücksetzen"
+    },
+    "Right": {
+        "message": "Rechts"
+    },
+    "SAVE": {
+        "message": "Speichern Sie"
+    },
+    "SET": {
+        "message": "einstellen."
+    },
+    "SITES": {
+        "message": "Standorte"
+    },
+    "SKIP_EMPTY_DISTANCE": {
+        "message": "ignoriere unbekannt Entfernung"
+    },
+    "STATS": {
+        "message": "Statistik"
+    },
+    "STOP": {
+        "message": "Stop"
+    },
+    "SUBSCRIPTION": {
+        "message": "Abonnement"
+    },
+    "SUBSCRIPTION_CANCELED": {
+        "message": "Abonnement gekündigt"
+    },
+    "SUBSCRIPTION_PLAN": {
+        "message": "Abonnement-Plan"
+    },
+    "SUBSCRIPTION_RENEWDATE": {
+        "message": "Datum der Abonnementverlängerung"
+    },
+    "SUBSCRIPTION_STATUS": {
+        "message": "Status des Abonnements"
+    },
+    "SUPPORTED_BROWSERS": {
+        "message": "Unterstützte Browser"
+    },
+    "SWIPE": {
+        "message": "Start"
+    },
+    "SWIPES": {
+        "message": "Swipes"
+    },
+    "SWIPE_BREAK": {
+        "message": "Automatische Pause zwischen Swipes"
+    },
+    "THEME": {
+        "message": "Thema"
+    },
+    "TOAST_VERSION_UPDATE": {
+        "message": "Auto-Swiper hat ein Update erhalten. Aktualisieren Sie alle aktiven Dating-Seiten, um die neuen Änderungen zu implementieren, und konsultieren Sie das Changelog für weitere Details."
+    },
+    "TOTAL": {
+        "message": "Insgesamt"
+    },
+    "UNSET": {
+        "message": "nicht eingestellt"
+    },
+    "WITH_RELOAD_PAGE_BETWEEN_SWIPES": {
+        "message": "mit automatischem Neuladen der Seite"
+    },
+    "YEARS": {
+        "message": "Jahre"
+    },
+    "YES": {
+        "message": "Ja"
+    }
+}

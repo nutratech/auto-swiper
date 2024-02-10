@@ -1,0 +1,404 @@
+{
+    "ABOUT": {
+        "message": "Om"
+    },
+    "ACTIVE": {
+        "message": "aktiv"
+    },
+    "AGE": {
+        "message": "Ålder"
+    },
+    "APP_DESCRIPTION": {
+        "message": "Auto Swiper Extension för att svepa Tinder, Bumble, Lovoo, PoF och OkCupid-profiler."
+    },
+    "APP_NAME": {
+        "message": "Auto Swiper"
+    },
+    "BACK": {
+        "message": "tillbaka"
+    },
+    "BANNED_WORDS": {
+        "message": "Förbjudna nyckelord"
+    },
+    "BANNED_WORDS_TOOLTIP": {
+        "message": "Profiler som innehåller något av dessa nyckelord kommer automatiskt att hoppas över. Använd den här listan för att undvika profiler med specifika termer som du inte är intresserad av."
+    },
+    "BILLING_DASHBOARD": {
+        "message": "Instrumentpanel för fakturering"
+    },
+    "BREAK_DURATION": {
+        "message": "Avbrottets varaktighet i minuter."
+    },
+    "BROWSER_NOTIFICATION": {
+        "message": "Meddelanden från webbläsare"
+    },
+    "BROWSER_NOTIFICATION_DON_TEXT": {
+        "message": "Resultat av swiping-sessionen:"
+    },
+    "BROWSER_NOT_SUPPORTED": {
+        "message": "Den webbläsare du använder för närvarande stöds inte."
+    },
+    "CITY": {
+        "message": "Stad"
+    },
+    "CLOUD_SYNC": {
+        "message": "Moln Spara/Ladda"
+    },
+    "DARK": {
+        "message": "Mörk"
+    },
+    "DEBUGGING_INFORMATION": {
+        "message": "Utdata för felsökning"
+    },
+    "DELAY_AFTER_PAGE_RELOAD": {
+        "message": "Fördröjning efter omladdning av sidan i minuter"
+    },
+    "DISTANCE": {
+        "message": "Avstånd"
+    },
+    "DOWNLOAD_LOG_CSV": {
+        "message": "Ladda ner logg (CSV)"
+    },
+    "DOWNLOAD_LOG_JSON": {
+        "message": "Logg för nedladdning (JSON)"
+    },
+    "ENABLE_DELAY_AFTER_PAGE_RELOAD": {
+        "message": "Aktivera fördröjning efter omladdning av sidan"
+    },
+    "ENABLE_MAX_DISTANCE": {
+        "message": "Aktivera Max. Avstånd"
+    },
+    "ENABLE_MAX_SWIPES": {
+        "message": "Aktivera max antal swipes"
+    },
+    "ENABLE_MIN_MAX_AGE": {
+        "message": "Aktivera åldersintervall"
+    },
+    "ENABLE_MIN_MAX_HEIGHT": {
+        "message": "Aktivera höjdintervall"
+    },
+    "ENABLE_MIN_PICTURES": {
+        "message": "Aktivera Min. Bilder"
+    },
+    "ENABLE_RANDOM_USAGE_SIMULATION": {
+        "message": "Aktivera simulering av slumpmässig användning"
+    },
+    "ENABLE_RELOAD_PAGE_BETWEEN_SWIPES": {
+        "message": "Aktivera automatisk sidladdning mellan Swipes"
+    },
+    "ENABLE_SWIPE_BREAK": {
+        "message": "Aktivera automatisk paus mellan Swipes"
+    },
+    "ERROR": {
+        "message": "FEL"
+    },
+    "ERROR_LOGIN_REQUEST": {
+        "message": "Inloggningen misslyckades. Kontrollera din internetanslutning och se till att din e-postadress och ditt lösenord är korrekta."
+    },
+    "ERROR_MAX_SWIPES": {
+        "message": "Du har nått din dagliga swipe-gräns"
+    },
+    "ERROR_NOT_SUPPORTED_SITE": {
+        "message": "Du befinner dig på en webbplats som inte stöds!"
+    },
+    "ERROR_OPTIONS_SYNC_LOAD": {
+        "message": "Ett fel uppstod när alternativ laddades från servern. Vänligen försök igen vid ett senare tillfälle."
+    },
+    "ERROR_OPTIONS_SYNC_SAVE": {
+        "message": "Ett fel uppstod när alternativ sparades på servern. Vänligen försök igen vid ett senare tillfälle."
+    },
+    "ERROR_PLEAS_RELOAD_PAGE": {
+        "message": "Öppna eller uppdatera den dejtingsajt där du vill använda swiping."
+    },
+    "ERROR_SWIPING_NOT_WORKING": {
+        "message": "Svepfunktionen fungerar inte korrekt. Vänligen försök igen. Om problemet kvarstår kan du kontakta utvecklaren på surtic86@gmail.com."
+    },
+    "EXPORT": {
+        "message": "Export"
+    },
+    "EXTENDED_DISTANCE": {
+        "message": "utökat avstånd"
+    },
+    "FAQ": {
+        "message": "VANLIGA FRÅGOR"
+    },
+    "HEIGHT": {
+        "message": "Höjd"
+    },
+    "IGNORE_DISTANCE": {
+        "message": "ignorera avstånd"
+    },
+    "IMPORT": {
+        "message": "Import"
+    },
+    "IMPORT_FINISHED": {
+        "message": "Importen avslutad"
+    },
+    "LAST_LEFT_SWIPE": {
+        "message": "Sista vänster Svep"
+    },
+    "LEFT": {
+        "message": "Vänster"
+    },
+    "LEFT_SWIPES_PERCENTAGE": {
+        "message": "Vänstersvepning i procent"
+    },
+    "LIGHT": {
+        "message": "Ljus"
+    },
+    "LOAD": {
+        "message": "Last"
+    },
+    "LOCATION": {
+        "message": "Plats"
+    },
+    "LOGIN": {
+        "message": "Inloggning"
+    },
+    "LOGOUT": {
+        "message": "Logga ut"
+    },
+    "MATCHES": {
+        "message": "Tändstickor"
+    },
+    "MAX_DISTANCE": {
+        "message": "Max. Avstånd"
+    },
+    "MAX_SWIPES": {
+        "message": "Max Swipes"
+    },
+    "MIN_MAX_AGE": {
+        "message": "Åldersintervall"
+    },
+    "MIN_MAX_HEIGHT": {
+        "message": "Höjdintervall"
+    },
+    "MIN_MAX_SWIPE_TIME": {
+        "message": "Tid mellan Swipes i Sec."
+    },
+    "MIN_PICTURES": {
+        "message": "Min. Bilder"
+    },
+    "MONTH": {
+        "message": "Månad"
+    },
+    "NAME": {
+        "message": "Namn"
+    },
+    "NO": {
+        "message": "Nej"
+    },
+    "NOT_ACTIVE": {
+        "message": "inte aktiv"
+    },
+    "NO_EMPTY_DESCRIPTION": {
+        "message": "nej Tom Beskrivning"
+    },
+    "ONLY_RECENTLY_ACTIVE": {
+        "message": "endast nyligen aktiv"
+    },
+    "ONLY_VERIFYED_PROFILES": {
+        "message": "endast verifierade profiler"
+    },
+    "OPTIONS": {
+        "message": "Alternativ"
+    },
+    "OPTIONS_SUCCESSFULLY_LOADED": {
+        "message": "Alternativen har laddats framgångsrikt."
+    },
+    "OPTIONS_SUCCESSFULLY_SAVED": {
+        "message": "Alternativen har sparats framgångsrikt."
+    },
+    "PREFERRED_WORDS": {
+        "message": "Instant Like Nyckelord"
+    },
+    "PREFERRED_WORDS_TOOLTIP": {
+        "message": "Profiler med dessa nyckelord får en omedelbar gilla-markering. Perfekt för att lyfta fram profiler som matchar dina intressen eller preferenser."
+    },
+    "PREMIUM": {
+        "message": "Premium"
+    },
+    "PREMIUM_CHECK_SUBSCRIPTION": {
+        "message": "Kontrollera din prenumeration"
+    },
+    "PREMIUM_DISTANCE": {
+        "message": "hoppa över Tomt avstånd, Ignorera avstånd, Förlängt avstånd"
+    },
+    "PREMIUM_EMPTY_DESCRIPTION_ONLY_VERIFYED": {
+        "message": "ingen tom beskrivning, endast verifierade profiler"
+    },
+    "PREMIUM_FREE_TRIAL": {
+        "message": "kostnadsfri provperiod"
+    },
+    "PREMIUM_LOCATION_SPOOFING": {
+        "message": "Spoofing av plats"
+    },
+    "PREMIUM_LOGIN": {
+        "message": "Inloggning"
+    },
+    "PREMIUM_SUBSCRIBE": {
+        "message": "Prenumerera"
+    },
+    "PREMIUM_SWIPE_CANCEL": {
+        "message": "Avbryt"
+    },
+    "PREMIUM_SWIPE_SPEED": {
+        "message": "ändra svephastighet"
+    },
+    "PREMIUM_SWIPE_STATISTICS": {
+        "message": "svep Statistik"
+    },
+    "PREMIUM_UNLIMITED_BANNED_WORDS": {
+        "message": "obegränsad förbjudna ord"
+    },
+    "PREMIUM_UNLIMITED_SWIPES": {
+        "message": "obegränsat antal Swipes"
+    },
+    "PRICING": {
+        "message": "Prissättning"
+    },
+    "RANDOM_USAGE_SIMULATION": {
+        "message": "Simulera slumpmässig användning"
+    },
+    "RATE": {
+        "message": "Betygsätt denna förlängning"
+    },
+    "RATE_INFORMATION": {
+        "message": "Om du gillar det här tillägget, kan du vara snäll och ge det ett betyg? Det tar bara en minut och ditt stöd är mycket uppskattat. Tack så mycket!"
+    },
+    "RATE_NOT_NOW": {
+        "message": "Fråga mig en annan gång"
+    },
+    "RATE_NOW": {
+        "message": "Pris"
+    },
+    "REASON": {
+        "message": "Anledning"
+    },
+    "REASON_BANNED_WORD": {
+        "message": "förbjudet ord"
+    },
+    "REASON_EMPTY_DESCRIPTION": {
+        "message": "ingen Beskrivning"
+    },
+    "REASON_HEIGHT_TO_SMALL": {
+        "message": "till Small"
+    },
+    "REASON_HEIGHT_TO_TALL": {
+        "message": "till Tall"
+    },
+    "REASON_ONLY_RECENTLY_ACTIVE": {
+        "message": "inte aktiv på senare tid"
+    },
+    "REASON_ONLY_VERIFYED_PROFILES": {
+        "message": "ej verifierad"
+    },
+    "REASON_REQUIRED_WORD": {
+        "message": "inget obligatoriskt sökord hittades"
+    },
+    "REASON_TO_FAR_AWAY": {
+        "message": "för långt bort"
+    },
+    "REASON_TO_LESS_PICTURES": {
+        "message": "för få bilder"
+    },
+    "REASON_TO_OLD": {
+        "message": "för gammal"
+    },
+    "REASON_TO_YOUNG": {
+        "message": "för ung"
+    },
+    "REGISTER": {
+        "message": "Register"
+    },
+    "RELOAD_PAGE_BETWEEN_SWIPES": {
+        "message": "Automatisk sidladdning mellan Swipes"
+    },
+    "REQUIRED": {
+        "message": "Obligatoriskt"
+    },
+    "REQUIRED_WORDS": {
+        "message": "Obligatoriska nyckelord"
+    },
+    "REQUIRED_WORDS_TOOLTIP": {
+        "message": "Dessa nyckelord måste finnas i en profil för att den ska övervägas för gillande. Detta säkerställer att endast profiler som uppfyller dina väsentliga kriterier gillas."
+    },
+    "RESET_LOG": {
+        "message": "återställ logg"
+    },
+    "RESET_SETTINGS": {
+        "message": "Återställ inställningar"
+    },
+    "RESET_STATS": {
+        "message": "återställning Statistik"
+    },
+    "Right": {
+        "message": "Rätt"
+    },
+    "SAVE": {
+        "message": "Spara"
+    },
+    "SET": {
+        "message": "inställd"
+    },
+    "SITES": {
+        "message": "Anläggningar"
+    },
+    "SKIP_EMPTY_DISTANCE": {
+        "message": "ignorera okänd Avstånd"
+    },
+    "STATS": {
+        "message": "Statistik"
+    },
+    "STOP": {
+        "message": "Stopp"
+    },
+    "SUBSCRIPTION": {
+        "message": "Prenumeration"
+    },
+    "SUBSCRIPTION_CANCELED": {
+        "message": "Prenumeration avbruten"
+    },
+    "SUBSCRIPTION_PLAN": {
+        "message": "Abonnemangsplan"
+    },
+    "SUBSCRIPTION_RENEWDATE": {
+        "message": "Datum för förnyelse av prenumeration"
+    },
+    "SUBSCRIPTION_STATUS": {
+        "message": "Status för prenumeration"
+    },
+    "SUPPORTED_BROWSERS": {
+        "message": "Webbläsare som stöds"
+    },
+    "SWIPE": {
+        "message": "Start"
+    },
+    "SWIPES": {
+        "message": "Swipes"
+    },
+    "SWIPE_BREAK": {
+        "message": "Automatisk brytning mellan Swipes"
+    },
+    "THEME": {
+        "message": "Tema"
+    },
+    "TOAST_VERSION_UPDATE": {
+        "message": "Auto-Swiper har fått en uppdatering. Uppdatera alla aktiva dejtingsajter för att implementera de nya ändringarna och läs ändringsloggen för ytterligare information."
+    },
+    "TOTAL": {
+        "message": "Totalt"
+    },
+    "UNSET": {
+        "message": "avaktiverad"
+    },
+    "WITH_RELOAD_PAGE_BETWEEN_SWIPES": {
+        "message": "med Automatisk omladdning av sidan"
+    },
+    "YEARS": {
+        "message": "År"
+    },
+    "YES": {
+        "message": "Ja"
+    }
+}
